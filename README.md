@@ -1,0 +1,2 @@
+# LifeIsStrangeProject
+Video game title
